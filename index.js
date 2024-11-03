@@ -50,7 +50,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎃 Happy Halloween", "🎃 Happy Halloween"];
+const statusMessages = ["🆕 New Bot Coming Soon", "🛑 I Hate Rate Limits"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
